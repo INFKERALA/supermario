@@ -1,6 +1,1 @@
-Distribution
-Distribution/**
-Source/**/*.md
-Source/**/*.txt
-node_modules/
-npm-debug.log
+*.txt
